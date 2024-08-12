@@ -1,0 +1,14 @@
+D:\Users\20241170150033\calculadora algoritimos\bin\Debug\net8.0\calculadora algoritimos.exe
+D:\Users\20241170150033\calculadora algoritimos\bin\Debug\net8.0\calculadora algoritimos.deps.json
+D:\Users\20241170150033\calculadora algoritimos\bin\Debug\net8.0\calculadora algoritimos.runtimeconfig.json
+D:\Users\20241170150033\calculadora algoritimos\bin\Debug\net8.0\calculadora algoritimos.dll
+D:\Users\20241170150033\calculadora algoritimos\bin\Debug\net8.0\calculadora algoritimos.pdb
+D:\Users\20241170150033\calculadora algoritimos\obj\Debug\net8.0\calculadora algoritimos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150033\calculadora algoritimos\obj\Debug\net8.0\calculadora algoritimos.AssemblyInfoInputs.cache
+D:\Users\20241170150033\calculadora algoritimos\obj\Debug\net8.0\calculadora algoritimos.AssemblyInfo.cs
+D:\Users\20241170150033\calculadora algoritimos\obj\Debug\net8.0\calculadora algoritimos.csproj.CoreCompileInputs.cache
+D:\Users\20241170150033\calculadora algoritimos\obj\Debug\net8.0\calculadora algoritimos.dll
+D:\Users\20241170150033\calculadora algoritimos\obj\Debug\net8.0\refint\calculadora algoritimos.dll
+D:\Users\20241170150033\calculadora algoritimos\obj\Debug\net8.0\calculadora algoritimos.pdb
+D:\Users\20241170150033\calculadora algoritimos\obj\Debug\net8.0\calculadora algoritimos.genruntimeconfig.cache
+D:\Users\20241170150033\calculadora algoritimos\obj\Debug\net8.0\ref\calculadora algoritimos.dll
